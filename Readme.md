@@ -1,4 +1,4 @@
-How to run the Bank Locker Management System (BLMS) Project
+## How to run the Bank Locker Management System (BLMS) Project
 
 1. Download the zip file
 
